@@ -1,0 +1,17 @@
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.csproj.AssemblyReference.cache
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.AssemblyInfoInputs.cache
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.AssemblyInfo.cs
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.csproj.CoreCompileInputs.cache
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Repository.deps.json
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Repository.runtimeconfig.json
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Repository.dll
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Repository.pdb
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Domain.dll
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/bin/Debug/net6.0/Domain.pdb
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.csproj.CopyComplete
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.dll
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/refint/Repository.dll
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.pdb
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/Repository.genruntimeconfig.cache
+/Users/nisa.nn/Desktop/Api_tasks/Api_relations/Repository/obj/Debug/net6.0/ref/Repository.dll
